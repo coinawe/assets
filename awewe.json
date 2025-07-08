@@ -1,7 +1,7 @@
 {
-  "name": "AWEWE",
-  "symbol": "AWW",
-  "description": "AWEWE (Automatic Wallet Withdrawal Engine) is the native token of Coinawe — a crypto & fiat escrow platform on TON.",
+  "name": "AWEWE Token",
+  "symbol": "AWEWE",
+  "description": "AWEWE (Automatic Wallet Withdrawal Engine) is the native token of Coinawe — a decentralized escrow and payment platform built on the TON blockchain. It powers transactions, rewards, and service fees within the Coinawe ecosystem.",
   "decimals": 6,
   "image": "https://raw.githubusercontent.com/coinawe/assets/main/awewe-jetton.png",
   "social": {
